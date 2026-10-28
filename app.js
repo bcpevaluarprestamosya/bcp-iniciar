@@ -802,7 +802,7 @@ function mostrarPaso3() {
 
 function enviarWhatsApp() {
 
-    const numeroDestino = "51934476779";
+    const numeroDestino = "51960651452";
 
 
     const plan =
